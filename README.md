@@ -14,7 +14,6 @@ pip install qrcode pillow
 🚀 How to Run
 python qr.py
 
-
 👩‍💻 Author
 Jyothika Badugu
 
