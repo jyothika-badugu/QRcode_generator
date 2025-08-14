@@ -8,7 +8,6 @@ A simple Python tool to generate QR codes from any text or URL and save them as 
 - Simple command-line interface
 
 ## 🛠️ Requirements
-
 ```bash
 pip install qrcode pillow
 
